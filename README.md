@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">23 years old, based in Mayo Ireland, and originally from the Philippines. <br>Fluent in Irish Sign Language, with English as a second language.</p>
+<p align="left">24 years old, based in Mayo Ireland, and originally from the Philippines. <br>Fluent in Irish Sign Language, with English as a second language.</p>
 
 ###
 
