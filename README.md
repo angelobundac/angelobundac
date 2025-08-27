@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm currently a first-year computing student at Technological University Dublin</p>
+<p align="center">I'm currently a second-year computing student at Technological University Dublin</p>
 
 ###
 
