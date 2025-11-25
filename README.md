@@ -2,10 +2,6 @@
 
 ###
 
-<p align="center">I'm currently a second-year computing student at Technological University Dublin</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
