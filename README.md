@@ -6,7 +6,6 @@
 
 ###
 
-<p align="left">25 years old, based in Mayo Ireland, and originally from the Philippines. <br>Fluent in Irish Sign Language, with English as a second language.</p>
 
 ###
 
