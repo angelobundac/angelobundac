@@ -8,8 +8,6 @@
 
 <p align="left">25 years old, based in Mayo Ireland, and originally from the Philippines. <br>Fluent in Irish Sign Language, with English as a second language.</p>
 
-<p>Had a certficate in creative media with game design - didn't get any good grades because of the covid lockdown</p>
-
 ###
 
 <h2 align="left">I'm currently learning</h2>
