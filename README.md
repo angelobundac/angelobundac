@@ -30,3 +30,5 @@
 </div>
 
 ###
+<h2 align="left">
+My personal portfolio: https://angxlo.me/ (coming soon)
