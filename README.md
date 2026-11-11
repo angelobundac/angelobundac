@@ -30,5 +30,5 @@
 </div>
 
 ###
-<h2 align="left">
-My personal portfolio: https://angxlo.me/ (coming soon)
+<h2 align="left">My Personal Portfolio
+My website: https://angxlo.me/ (coming soon)
